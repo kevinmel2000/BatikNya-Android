@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BatikNya</string>
+    <string name="hai">Hai Alvin!</string>
+    <string name="there_are_some_batik_from_batikita">There are some batik from BatiKita</string>
+    <string name="popular">Popular</string>
+    <string name="all">All</string>
+    <string name="see_all">See all</string>
+    <string name="price_range">Kisaran harga</string>
+    <string name="meaning_of_batik">Makna Batik</string>
+</resources>
